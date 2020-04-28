@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/samsung/a40dd
+DEVICE_PATH := device/samsung/a40
 
 # Architecture
 TARGET_ARCH := arm64
@@ -78,8 +78,8 @@ RECOVERY_VARIANT := twrp
 TW_THEME := portrait_hdpi
 RECOVERY_SDCARD_ON_DATA := true
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel/brightness"
-TW_MAX_BRIGHTNESS := 25500
-TW_DEFAULT_BRIGHTNESS := 16300
+TW_MAX_BRIGHTNESS := 255
+TW_DEFAULT_BRIGHTNESS := 163
 TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
 TW_NO_REBOOT_BOOTLOADER := true
