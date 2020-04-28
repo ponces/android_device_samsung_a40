@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_a40dd.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_a40.mk
 
