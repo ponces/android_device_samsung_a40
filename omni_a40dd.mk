@@ -24,8 +24,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a40dd
-PRODUCT_NAME := omni_a40dd
-PRODUCT_BRAND := Samsung
+PRODUCT_DEVICE := a40
+PRODUCT_NAME := omni_a40
+PRODUCT_BRAND := samsung
 PRODUCT_MODEL := Galaxy A40
 PRODUCT_MANUFACTURER := Samsung
