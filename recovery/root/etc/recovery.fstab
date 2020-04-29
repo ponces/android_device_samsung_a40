@@ -17,7 +17,7 @@
 /misc             emmc    /dev/block/platform/13500000.dwmmc0/by-name/misc        flags=backup=0;display="Misc"
 /dtb              emmc    /dev/block/platform/13500000.dwmmc0/by-name/dtb         flags=backup=1;display="DTB"
 /dtbo             emmc    /dev/block/platform/13500000.dwmmc0/by-name/dtbo        flags=backup=1;display="DTBO"
-/efs              ext4    /dev/block/platform/13500000.dwmmc0/by-name/efs         flags=backup=1;display="EFS"
+/efs              ext4    /dev/block/platform/13500000.dwmmc0/by-name/sec_efs     flags=backup=1;display="EFS"
 /product          ext4    /dev/block/platform/13500000.dwmmc0/by-name/product     flags=backup=0;display="Product"
 /product_image    emmc    /dev/block/platform/13500000.dwmmc0/by-name/product     flags=backup=1;flashimg;display="Product Image (CSC)"
 
