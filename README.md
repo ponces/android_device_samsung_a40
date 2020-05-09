@@ -1,4 +1,4 @@
-## TWRP Tree for the Samsung Galaxy A40
+## Recovery Device Tree for the Samsung Galaxy A40
 
 ### How-to compile it:
 
