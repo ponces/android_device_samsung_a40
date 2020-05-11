@@ -16,3 +16,4 @@
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_a40.mk
 
+COMMON_LUNCH_CHOICES := omni_a40-eng
